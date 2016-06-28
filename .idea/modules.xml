@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MPChartExample/MPChartExample.iml" filepath="$PROJECT_DIR$/MPChartExample/MPChartExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MPChartLib/MPChartLib.iml" filepath="$PROJECT_DIR$/MPChartLib/MPChartLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/contentprovider_demo/contentprovider_demo.iml" filepath="$PROJECT_DIR$/contentprovider_demo/contentprovider_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_filesys/demo_filesys.iml" filepath="$PROJECT_DIR$/demo_filesys/demo_filesys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_helloworld/demo_helloworld.iml" filepath="$PROJECT_DIR$/demo_helloworld/demo_helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_layout/demo_layout.iml" filepath="$PROJECT_DIR$/demo_layout/demo_layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_phonecall/demo_phonecall.iml" filepath="$PROJECT_DIR$/demo_phonecall/demo_phonecall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_pullparser/demo_pullparser.iml" filepath="$PROJECT_DIR$/demo_pullparser/demo_pullparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findfile/findfile.iml" filepath="$PROJECT_DIR$/findfile/findfile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/httpclient_demo/httpclient_demo.iml" filepath="$PROJECT_DIR$/httpclient_demo/httpclient_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listview/listview.iml" filepath="$PROJECT_DIR$/listview/listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manage/manage.iml" filepath="$PROJECT_DIR$/manage/manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network/network.iml" filepath="$PROJECT_DIR$/network/network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/network_demo/network_demo.iml" filepath="$PROJECT_DIR$/network_demo/network_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register_demo/register_demo.iml" filepath="$PROJECT_DIR$/register_demo/register_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sdcard_demo/sdcard_demo.iml" filepath="$PROJECT_DIR$/sdcard_demo/sdcard_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharedpref_demo/sharedpref_demo.iml" filepath="$PROJECT_DIR$/sharedpref_demo/sharedpref_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sqlite_demo/sqlite_demo.iml" filepath="$PROJECT_DIR$/sqlite_demo/sqlite_demo.iml" />
+    </modules>
+  </component>
+</project>

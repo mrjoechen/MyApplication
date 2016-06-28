@@ -1,0 +1,1 @@
+include ':app', ':sdcard_demo', ':demo_helloworld', ':demo_layout', ':demo_phonecall', ':register_demo', ':demo_filesys', ':demo_pullparser', ':sharedpref_demo', ':findfile', ':sqlite_demo', ':manage', ':listview', ':contentprovider_demo', ':network_demo', ':httpclient_demo', ':network', ':MPChartLib', ':MPChartExample'
